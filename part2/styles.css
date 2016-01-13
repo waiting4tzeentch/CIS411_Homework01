@@ -1,0 +1,39 @@
+body {
+	background-image: url("bck.jpg");
+	background-repeat: no-repeat;
+}
+#css-zen-garden {
+	position:relative;
+	display: inline;
+	padding: 0em;
+	margin: 0em;
+	background-image: url("bck2.jpg");
+	background-repeat: no-repeat;
+}
+
+.sidebar {
+	margin-right:2em;
+	top:0;
+	float:right;
+	width:300px;
+}
+
+.intro {
+	margin-left:15em;
+	float:left;
+	top:0;
+	width:600px;
+	display: inline-block;
+}
+
+.supporting {
+	margin-left:15em;
+	float:left;
+	width:600px;
+	display: inline-block;
+}
+
+p {
+  margin: 0.75em 0;
+  line-height: 2;
+}
